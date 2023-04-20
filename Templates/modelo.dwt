@@ -1,0 +1,169 @@
+<!doctype html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="pt-BR"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="pt-BR" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="pt-BR" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="pt-BR" class="no-js ie8 oldie"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html dir="ltr" lang="pt-BR" class="no-js">
+<!--<![endif]-->
+<head>
+<!-- 01/12/2015 -->
+<!-- meta tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta name="title" content="Sindicato do Com&eacute;rcio Varejista de Produtos Farmac&ecirc;uticos do Estado de Goi&aacute;s - SINCOFAGO"/>
+<meta name="author" content="GO!Sites - Soluções Online - (62) 3941-7878 gosites@gosites.com.br">
+<meta name="copyright" content="® 2015" />
+<meta name="keywords" content="" />
+<meta name="distribution" content="global">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Sindicato do Com&eacute;rcio Varejista de Produtos Farmac&ecirc;uticos do Estado de Goi&aacute;s - SINCOFAGO</title>
+<!-- TemplateEndEditable -->
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="152x152" href="../img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="57x57" href="../img/favicons/apple-touch-icon-57x57.png">
+<link rel="icon" type="image/png" href="../img/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="../img/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="../img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../img/favicons/favicon-16x16.png" sizes="16x16">
+<!-- css -->
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="../css/layout.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- classe da pagina -->
+<!-- TemplateBeginEditable name="classe-da-pagina" -->
+<div class="">
+<!-- TemplateEndEditable -->
+  <!-- TemplateBeginEditable name="header" -->
+  
+  <!-- TemplateEndEditable -->
+  <header id="topo">
+    <div class="topo">
+      <div id="logo"><a href="principal.html"><img src="../img/logo.png" class="logo"></a></div>
+      <div class="telefone">
+        <span class="icone-telefone">e<i class="fa fa-phone"></i></span><span class="telefone-area">62</span> 3229-2610
+      </div>
+    </div>
+    <!-- navegacao menu -->
+    <nav class="navegacao" id="navegacao">
+      <ul>
+        <li><a href="../sincofago.html" target="_self" class="menu-sincofago">Sincofago</a></li>
+        <li><a href="../associados.html" target="_self" class="menu-associados">Para Associados</a></li>
+        <li><a href="../legislacao.html" target="_self" class="menu-legislacao">Legisla&ccedil;&atilde;o</a></li>
+        <li><a href="../convencoes-coletivas.html" target="_self" class="menu-convencoes">Conven&ccedil;&otilde;es Coletivas</a></li>
+        <li><a href="../links-uteis.html" target="_self" class="menu-linksuteis">Links &Uacute;teis</a></li>
+        <li><a href="../fotos.html" target="_self" class="menu-fotos">Galeria de Fotos</a></li>
+        <li><a href="../noticias.html" target="_self" class="menu-noticias">Not&iacute;cias</a></li>
+        <li><a href="../guias.html" target="_self" class="menu-guias">Guias</a></li>
+        <li><a href="../fale.html" target="_self" class="menu-fale">Fale Conosco</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- /.topo -->
+  <!-- navegacao max. 767px -->
+  <div class="mobile">
+    <header class="mobile-topo">
+      <!-- logo -->
+      <section id="logo-mobile"><a href="../principal.html" target="_self"><img src="../img/logo.png" class="logo-mobile"></a></section>
+      <!-- menu icone -->
+      <nav id="nav-mobile"> <a href="javascript:void(0)" data-toggle="modal" data-target="#nav-mob"><img src="../img/mob-menu.svg" class="nav-mobile" alt="Menu"></a> </nav>
+    </header>
+      <!-- menu mobile -->
+      <div class="modal fade menu-mobile fade-menu-mobile" id="nav-mob" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog menu-mobile-dialog">
+          <div class="modal-content menu-mobile-content">
+            <div class="modal-header menu-mobile-header"><a href="javascript:void(0)" class="fechar"><img src="../img/fechar.svg" alt="Fechar Menu" data-dismiss="modal" aria-hidden="true"></a></div>
+            <div class="modal-body menu-mobile-body">
+              <!-- conteudos menu aqui -->
+              <ul class="menu-movel">
+                <li><a href="../sincofago.html" target="_self" class="menu-sincofago">Sincofago</a></li>
+                <li><a href="../associados.html" target="_self" class="menu-associados">Para Associados</a></li>
+                <li><a href="../legislacao.html" target="_self" class="menu-legislacao">Legisla&ccedil;&atilde;o</a></li>
+                <li><a href="../convencoes-coletivas.html" target="_self" class="menu-convencoes">Conven&ccedil;&otilde;es Coletivas</a></li>
+                <li><a href="../links-uteis.html" target="_self" class="menu-linkuteis">Links &Uacute;teis</a></li>
+                <li><a href="../fotos.html" target="_self" class="menu-fotos">Galeria de Fotos</a></li>
+                <li><a href="../noticias.html" target="_self" class="menu-noticias">Not&iacute;cias</a></li>
+                <li><a href="../guias.html" target="_self" class="menu-guias">Guias</a></li>
+                <li><a href="../fale.html" target="_self" class="menu-fale">Fale Conosco</a></li>
+              </ul>
+            </div>
+            <div class="modal-footer menu-mobile-footer"></div>
+          </div>
+        </div>
+      </div>
+      <!-- /nav-mob -->
+  </div>
+  <!-- /.mobile -->
+  <section class="banners">
+    <!-- TemplateBeginEditable name="banners" -->
+    
+    <!-- TemplateEndEditable -->
+  </section>
+  <!-- /.banners -->
+  <div class="clearfix"></div>
+  <main class="corpo">
+    <section class="titulos">
+      <span class="titulos-icone">d</span><h1><!-- TemplateBeginEditable name="titulos" --><!-- TemplateEndEditable --></h1>
+    </section>
+    <!-- /.titulos -->
+    <div class="clearfix"></div>
+    <section class="conteudos">
+      <!-- TemplateBeginEditable name="conteudos" -->
+      
+      <!-- TemplateEndEditable -->
+    </section>
+    <!-- /.conteudos -->
+    <div class="clearfix"></div>
+    <div class="conteudos-navegacao">
+      <a href="javascript:history.back(-1)" target="_self" class="botao-voltar">voltar</a>
+    </div>
+  </main>
+  <!-- /.corpo -->
+<div class="clearfix"></div>
+  <footer id="rodape">
+    <div class="rodape">
+      <div class="redes-sociais">
+        <a href="https://www.facebook.com/sincofago.dasfarmacias" target="_blank" class="rede-social"><i class="fa fa-facebook"></i></a>
+        <a href="#" target="_blank" class="rede-social"><i class="fa fa-twitter"></i></a>
+        <a href="#" target="_blank" class="rede-social"><i class="fa fa-google-plus"></i></a>
+      </div>
+      <div class="gosites">desenvolvido por <a href="http://www.gosites.com.br" target="_blank"><img src="../img/gosites.svg" id="gosites"></a></div>
+      <div class="endereco">Sindicato do Com&eacute;rcio Varejista de Produtos Farmac&ecirc;uticos do Estado de Goi&aacute;s<br>
+        Rua 5 N&ordm; 691, 13&ordm; Andar, Sala 1311 - Edif&iacute;cio The Prime Tamandar&eacute; Office<br>
+        Setor Oeste - Goi&acirc;nia - GO | CEP: 74115-060
+      </div>
+      <div class="rodape-telefone-email">
+        <div class="rodape-telefone"><a href="tel:+556232292610"><span class="rodape-telefone-icone"><i class="fa fa-phone"></i></span>62 <strong>3229-2610</strong></a></div>
+        <div class="email"><a href="mailto:sincofarma-go@sincofarma-go.com.br"><span class="email-icone"><i class="fa fa-envelope"></i></span>sincofarma-go@sincofarma-go.com.br</a></div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- /rodape -->
+  <!-- TemplateBeginEditable name="footer" -->
+  
+  <!-- TemplateEndEditable -->
+</div>
+<!-- modal menu movel-->
+<style>
+.menu-mobile {
+	padding-left: 0 !important; /* NAO ALTERAR */
+	padding-right: 0 !important; /* NAO ALTERAR */
+}
+</style>
+<!-- scripts --> 
+<script src="../js/jquery-1.11.2.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+</body>
+</html>
